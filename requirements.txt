@@ -1,0 +1,13 @@
+streamlit
+youtube-transcript-api==1.2.2
+langchain
+langchain-core
+langchain-huggingface
+langchain-community
+faiss-cpu
+tiktoken
+python-dotenv
+transformers
+huggingface-hub
+
+
