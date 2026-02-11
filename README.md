@@ -30,8 +30,7 @@ To get started, follow these steps to set up the application on your local machi
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/gauravpatil11/YT-video-Chatbot-using-Langchain
-    cd YT-video-Chatbot-using-Langchain
+    git clone https://github.com/thenigma/Langchain_Youtube_Chatbot
     ```
 
 2.  **Create a virtual environment** (optional but recommended):
